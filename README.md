@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dan8782)](https://github.com/dan8782/github-readme-stats&hide=javascript)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dan8782&hide=javascript)](https://github.com/dan8782/github-readme-stats)
 <!--
 **dan8782/dan8782** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
