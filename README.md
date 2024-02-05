@@ -18,7 +18,7 @@ I'm a Frontend Developer with a passion for building scalable and efficient web 
 - Location: Moscow, Russia
 
 #### 🔭 My projects:
-- Solo Projects: [Frontend Projects](https://github.com/dan8782/FrontendProjects), [gOzon](https://github.com/dan8782/gOzon)
+- Solo Projects: [Frontend Projects](https://github.com/dan8782/FrontendProjects), [gOzon](https://github.com/dan8782/gOzon), [PixelRulerExtension](https://github.com/dan8782/PixelRulerExtension), [ColorPickerExtension](https://github.com/dan8782/ColorPickerExtension)
 - Team Projects: [ContainerDS](https://github.com/dan8782/containerds), [Dezimal](https://github.com/dan8782/dezimal), and a startup project involving a cross-platform app with Flutter and Node.js.
 
 I specialize in React, JavaScript, and TypeScript, focusing on creating clean and scalable code. I've played various roles in my projects, from a full-stack developer to a team leader, emphasizing collaboration and efficient project management.
