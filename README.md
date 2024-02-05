@@ -1,7 +1,6 @@
 ### Hi there, I'm Danila Kiva 👋
 
 I'm a Frontend Developer with a passion for building scalable and efficient web applications. I thrive in team settings, having contributed to over 8 team projects, including a startup. My journey in tech began with my education at School 21 and continued through my studies at Moscow Technical University of Communications and Informatics (MTUCI), specializing in Systems and Communications. I've also enhanced my skills with a Web Development course at Geekbrains.
-
 #### 🌱 Education:
 - **School 21** (2022 - 2024)
 - **Moscow Technical University of Communications and Informatics (MTUCI)**, Systems and Communications (2020-2025)
@@ -18,7 +17,7 @@ I'm a Frontend Developer with a passion for building scalable and efficient web 
 - Telegram: [@no_shackleshot](https://t.me/no_shackleshot)
 - Location: Moscow, Russia
 
-#### 🔭 I’m currently working on:
+#### 🔭 My projects:
 - Solo Projects: [Frontend Projects](https://github.com/dan8782/FrontendProjects), [gOzon](https://github.com/dan8782/gOzon)
 - Team Projects: [ContainerDS](https://github.com/dan8782/containerds), [Dezimal](https://github.com/dan8782/dezimal), and a startup project involving a cross-platform app with Flutter and Node.js.
 
