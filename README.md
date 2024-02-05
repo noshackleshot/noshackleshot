@@ -24,3 +24,4 @@ I'm a Frontend Developer with a passion for building scalable and efficient web 
 I specialize in React, JavaScript, and TypeScript, focusing on creating clean and scalable code. I've played various roles in my projects, from a full-stack developer to a team leader, emphasizing collaboration and efficient project management.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dan8782)](https://github.com/dan8782/github-readme-stats)
+<img src="https://github.com/dan8782/dan8782/assets/76818976/bc1596d6-4c0a-4b7f-80b6-2cbf42bbb80c" width="370" height="290">
