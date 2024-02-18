@@ -4,7 +4,6 @@ I'm a Frontend Developer with a passion for building scalable and efficient web 
 
 #### 📫 How to reach me:
 - Email: [kiva.danila@yandex.ru](mailto:kiva.danila@yandex.ru)
-- Telegram: [@no_shackleshot](https://t.me/no_shackleshot)
 - Location: Moscow, Russia
 
 #### 🌱 Education:
