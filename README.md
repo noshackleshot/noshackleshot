@@ -1,6 +1,6 @@
 ### Hi there, I'm Danila Kiva 👋
 
-I'm a Frontend Developer with a passion for building scalable and efficient web applications. I thrive in team settings, having contributed to over 8 team projects, including a startup. My journey in tech began with my education at School 21 and continued through my studies at Moscow Technical University of Communications and Informatics (MTUCI), specializing in Systems and Communications. I've also enhanced my skills with a Web Development course at Geekbrains.
+I'm a Frontend Developer with a passion for building scalable and efficient web applications. I thrive in team settings, having contributed to over 8 team projects, including a startup. My journey in tech began with my education at School 21 and continued through my studies at Moscow Technical University of Communications and Informatics (MTUCI), specializing in Systems and Communications. 
 
 #### 📫 How to reach me:
 - Email: [kiva.danila@yandex.ru](mailto:kiva.danila@yandex.ru)
