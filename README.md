@@ -33,7 +33,7 @@
 - React, JavaScript, TypeScript, Redux, MaterialUI, CSS, Bootstrap
 
 #### **Backend:**
-- Node.js, Express, Prisma, PostgreSQL, **Java**
+- Node.js, Express, Prisma, PostgreSQL, Java
 
 #### **CI/CD и автоматизация:**
 - Jenkins (Job DSL, Pipeline), Docker, Docker Compose
