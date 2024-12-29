@@ -15,7 +15,7 @@ I'm a Frontend Developer with a passion for building scalable and efficient web 
 
 #### 🌱 Education:
 - **School 21** (2022 - 2024)
-- **Moscow Technical University of Communications and Informatics (MTUCI)**, Systems and Communications (2020-2025)
+- **Moscow Technical University of Communications and Informatics (MTUCI)**, Systems and Communications (2020-2026)
 - **Geekbrains**, Web Development Course (2021-2022)
 
 #### 💼 Skills:
