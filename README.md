@@ -1,4 +1,4 @@
-<p align="center" style="font-size: 20px; color: #36BCF7FF; font-weight: bold;">
+<p align="center" style="font-size: 24px; font-weight: bold; color: #36BCF7FF; margin-bottom: 10px;">
   Привет! Меня зовут Кива Данила.
 </p>
 
