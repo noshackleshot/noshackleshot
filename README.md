@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://t.me/no_shackleshot" style="color: #36BCF7FF;"><img width="32px" alt="Telegram" title="Telegram" src="https://i.imgur.com/FrPohCq.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="mailto:kiva.danila@yandex.ru" style="color: #36BCF7FF;"><img width="32px" alt="Yandex Mail" title="Yandex Mail" src="https://cdn-icons-png.flaticon.com/512/10505/10505896.png"/></a>
+  <a href="mailto:kiva.danila@yandex.ru" style="color: #36BCF7FF;"><img width="32px" alt="Yandex Mail" title="Yandex Mail" src="   https://cdn-icons-png.flaticon.com/512/14026/14026792.png"/></a>
 </p>
 I'm a Frontend Developer with a passion for building scalable and efficient web applications. I thrive in team settings, having contributed to over 8 team projects, including a startup. My journey in tech began with my education at School 21 and continued through my studies at Moscow Technical University of Communications and Informatics (MTUCI), specializing in Systems and Communications. 
 
