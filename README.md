@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://t.me/no_shackleshot" style="color: #36BCF7FF;"><img width="32px" alt="Telegram" title="Telegram" src="https://i.imgur.com/FrPohCq.png"/></a>
+  <a href="https://t.me/no_shackleshot" style="color: #36BCF7FF;"><img width="32px" alt="Telegram" title="Telegram" src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="mailto:kiva.danila@yandex.ru" style="color: #36BCF7FF;"><img width="32px" alt="Yandex Mail" title="Yandex Mail" src="https://cdn-icons-png.flaticon.com/512/14026/14026792.png"/></a>
 </p>
