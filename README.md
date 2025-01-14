@@ -56,6 +56,6 @@
 - Кросс-платформенное приложение (Flutter + Node.js) для стартапа
 
 ### 📈 Статистика:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dan8782)](https://github.com/noshackleshot/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noshackleshot)](https://github.com/noshackleshot/github-readme-stats)
 <img src="https://github.com/dan8782/dan8782/assets/76818976/bc1596d6-4c0a-4b7f-80b6-2cbf42bbb80c" width="370" height="290">
 
