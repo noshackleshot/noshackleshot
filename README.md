@@ -45,17 +45,17 @@
 
 ### 🔭 Проекты:
 #### **Личные проекты:**
-- [Frontend Projects](https://github.com/dan8782/FrontendProjects)
-- [gOzon](https://github.com/dan8782/gOzon)
-- [PixelRulerExtension](https://github.com/dan8782/PixelRulerExtension)
-- [ColorPickerExtension](https://github.com/dan8782/ColorPickerExtension)
+- [Frontend Projects](https://github.com/noshackleshot/FrontendProjects)
+- [gOzon](https://github.com/noshackleshot/gOzon)
+- [PixelRulerExtension](https://github.com/noshackleshot/PixelRulerExtension)
+- [ColorPickerExtension](https://github.com/noshackleshot/ColorPickerExtension)
 
 #### **Командные проекты:**
-- [ContainerDS](https://github.com/dan8782/containerds)
-- [Dezimal](https://github.com/dan8782/dezimal)
+- [ContainerDS](https://github.com/noshackleshot/containerds)
+- [Dezimal](https://github.com/noshackleshot/dezimal)
 - Кросс-платформенное приложение (Flutter + Node.js) для стартапа
 
 ### 📈 Статистика:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dan8782)](https://github.com/dan8782/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dan8782)](https://github.com/noshackleshot/github-readme-stats)
 <img src="https://github.com/dan8782/dan8782/assets/76818976/bc1596d6-4c0a-4b7f-80b6-2cbf42bbb80c" width="370" height="290">
 
