@@ -51,9 +51,9 @@
 - [ColorPickerExtension](https://github.com/noshackleshot/ColorPickerExtension)
 
 #### **Командные проекты:**
-- [ContainerDS](https://github.com/noshackleshot/containerds)
-- [Dezimal](https://github.com/noshackleshot/dezimal)
-- Кросс-платформенное приложение (Flutter + Node.js) для стартапа
+- [ContainerDS - своя либа](https://github.com/noshackleshot/containerds)
+- [Dezimal - кастомный тип данных](https://github.com/noshackleshot/dezimal)
+
 
 ### 📈 Статистика:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noshackleshot)](https://github.com/noshackleshot/github-readme-stats)
