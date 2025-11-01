@@ -1,0 +1,144 @@
+<svg width="1200" height="500" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700&amp;display=swap');
+
+      .background {
+        fill: #0a0a0a;
+      }
+
+      .border {
+        fill: none;
+        stroke: #ffffff;
+        stroke-width: 2;
+      }
+
+      .title {
+        font-family: 'JetBrains Mono', monospace;
+        font-size: 24px;
+        font-weight: 700;
+        fill: #ffffff;
+        text-transform: uppercase;
+        letter-spacing: 4px;
+      }
+
+      .divider {
+        fill: #ffffff;
+      }
+
+      .skill-name {
+        font-family: 'JetBrains Mono', monospace;
+        font-size: 14px;
+        font-weight: 400;
+        fill: #ffffff;
+        text-transform: uppercase;
+        letter-spacing: 1px;
+      }
+
+      .skill-percent {
+        font-family: 'JetBrains Mono', monospace;
+        font-size: 14px;
+        font-weight: 700;
+        fill: #ffffff;
+      }
+
+      .bar-empty {
+        fill: none;
+        stroke: #ffffff;
+        stroke-width: 2;
+      }
+
+      .bar-fill {
+        fill: #ffffff;
+      }
+
+      /* Subtle animation for bars */
+      @keyframes fillBar {
+        from { transform: scaleX(0); }
+        to { transform: scaleX(1); }
+      }
+
+      .bar-fill {
+        transform-origin: left;
+        animation: fillBar 1.5s ease-out;
+      }
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect class="background" width="1200" height="500"/>
+
+  <!-- Border -->
+  <rect class="border" x="1" y="1" width="1198" height="498"/>
+
+  <!-- Title -->
+  <text class="title" x="40" y="50">ТЕХНОЛОГИИ</text>
+
+  <!-- Divider line -->
+  <rect class="divider" x="40" y="70" width="1120" height="2"/>
+
+  <!-- Skills list -->
+  <g transform="translate(40, 120)">
+    <!-- React -->
+    <text class="skill-name" x="0" y="0">REACT</text>
+    <rect class="bar-empty" x="200" y="-12" width="800" height="10" rx="0"/>
+    <rect class="bar-fill" x="200" y="-12" width="720" height="10" rx="0"/>
+    <text class="skill-percent" x="1020" y="0">90%</text>
+
+    <!-- TypeScript -->
+    <g transform="translate(0, 45)">
+      <text class="skill-name" x="0" y="0">TYPESCRIPT</text>
+      <rect class="bar-empty" x="200" y="-12" width="800" height="10" rx="0"/>
+      <rect class="bar-fill" x="200" y="-12" width="680" height="10" rx="0"/>
+      <text class="skill-percent" x="1020" y="0">85%</text>
+    </g>
+
+    <!-- Node.js -->
+    <g transform="translate(0, 90)">
+      <text class="skill-name" x="0" y="0">NODE.JS</text>
+      <rect class="bar-empty" x="200" y="-12" width="800" height="10" rx="0"/>
+      <rect class="bar-fill" x="200" y="-12" width="640" height="10" rx="0"/>
+      <text class="skill-percent" x="1020" y="0">80%</text>
+    </g>
+
+    <!-- Redux -->
+    <g transform="translate(0, 135)">
+      <text class="skill-name" x="0" y="0">REDUX</text>
+      <rect class="bar-empty" x="200" y="-12" width="800" height="10" rx="0"/>
+      <rect class="bar-fill" x="200" y="-12" width="640" height="10" rx="0"/>
+      <text class="skill-percent" x="1020" y="0">80%</text>
+    </g>
+
+    <!-- PostgreSQL -->
+    <g transform="translate(0, 180)">
+      <text class="skill-name" x="0" y="0">POSTGRESQL</text>
+      <rect class="bar-empty" x="200" y="-12" width="800" height="10" rx="0"/>
+      <rect class="bar-fill" x="200" y="-12" width="600" height="10" rx="0"/>
+      <text class="skill-percent" x="1020" y="0">75%</text>
+    </g>
+
+    <!-- Express -->
+    <g transform="translate(0, 225)">
+      <text class="skill-name" x="0" y="0">EXPRESS</text>
+      <rect class="bar-empty" x="200" y="-12" width="800" height="10" rx="0"/>
+      <rect class="bar-fill" x="200" y="-12" width="600" height="10" rx="0"/>
+      <text class="skill-percent" x="1020" y="0">75%</text>
+    </g>
+
+    <!-- Docker -->
+    <g transform="translate(0, 270)">
+      <text class="skill-name" x="0" y="0">DOCKER</text>
+      <rect class="bar-empty" x="200" y="-12" width="800" height="10" rx="0"/>
+      <rect class="bar-fill" x="200" y="-12" width="560" height="10" rx="0"/>
+      <text class="skill-percent" x="1020" y="0">70%</text>
+    </g>
+
+    <!-- Material UI -->
+    <g transform="translate(0, 315)">
+      <text class="skill-name" x="0" y="0">MATERIAL UI</text>
+      <rect class="bar-empty" x="200" y="-12" width="800" height="10" rx="0"/>
+      <rect class="bar-fill" x="200" y="-12" width="560" height="10" rx="0"/>
+      <text class="skill-percent" x="1020" y="0">70%</text>
+    </g>
+  </g>
+</svg>

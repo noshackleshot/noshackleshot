@@ -1,113 +1,84 @@
 <p align="center">
-  <img src="./header.svg" alt="Данила Кива - Fullstack-разработчик" />
+  <img src="./header.svg" alt="ДАНИЛА КИВА" />
 </p>
 
 <br/>
 
-## 💻 Технологический стек
-
 <table align="center">
 <tr>
-  <td align="center" width="33%">
-    <h3>Frontend</h3>
-    <br/>
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-    <br/>
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-    <br/>
-    <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/>
-    <br/>
-    <img src="https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=mui&logoColor=white" alt="Material UI"/>
+  <td width="50%" align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=noshackleshot&show_icons=true&theme=radical&bg_color=0a0a0a&text_color=ffffff&title_color=ffffff&icon_color=ffffff&border_color=ffffff&border_radius=0&hide_rank=true" alt="GitHub Stats" width="100%"/>
   </td>
-
-  <td align="center" width="33%">
-    <h3>Backend</h3>
-    <br/>
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-    <br/>
-    <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
-    <br/>
-    <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma"/>
-    <br/>
-    <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <td width="50%" align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=noshackleshot&theme=black-ice&background=0a0a0a&border=ffffff&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&border_radius=0" alt="GitHub Streak" width="100%"/>
   </td>
-
-  <td align="center" width="33%">
-    <h3>DevOps</h3>
-    <br/>
-    <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>
-    <br/>
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-    <br/>
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-    <br/>
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+</tr>
+<tr>
+  <td width="50%" align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noshackleshot&layout=compact&theme=radical&bg_color=0a0a0a&text_color=ffffff&title_color=ffffff&border_color=ffffff&border_radius=0&langs_count=8" alt="Top Languages" width="100%"/>
+  </td>
+  <td width="50%" align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=noshackleshot&theme=high-contrast&bg_color=0a0a0a&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false&border_color=ffffff&radius=0" alt="Activity Graph" width="100%"/>
   </td>
 </tr>
 </table>
 
-<br/>
-
-## 🚀 Избранные проекты
-
-<table align="center">
-<tr>
-  <td width="50%" valign="top">
-    <h3><a href="https://github.com/noshackleshot/FrontendProjects">Frontend Projects</a></h3>
-    <p>Коллекция современных веб-приложений на React с TypeScript</p>
-    <p><code>React</code> <code>TypeScript</code> <code>Redux</code></p>
-  </td>
-
-  <td width="50%" valign="top">
-    <h3><a href="https://github.com/noshackleshot/containerds">ContainerDS</a></h3>
-    <p>Собственная библиотека контейнеров и структур данных на C</p>
-    <p><code>C</code> <code>Data Structures</code> <code>Algorithms</code></p>
-  </td>
-</tr>
-
-<tr>
-  <td width="50%" valign="top">
-    <h3><a href="https://github.com/noshackleshot/gOzon">gOzon</a></h3>
-    <p>E-commerce платформа с микросервисной архитектурой</p>
-    <p><code>Go</code> <code>Microservices</code> <code>PostgreSQL</code></p>
-  </td>
-
-  <td width="50%" valign="top">
-    <h3><a href="https://github.com/noshackleshot/dezimal">Dezimal</a></h3>
-    <p>Кастомный тип данных для работы с высокоточными числами</p>
-    <p><code>C</code> <code>Algorithms</code> <code>Math</code></p>
-  </td>
-</tr>
-</table>
-
-<br/>
-
-## 📊 Статистика
+<br/><br/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noshackleshot&layout=compact&theme=dark&bg_color=0a0a0a&text_color=ededed&title_color=ededed&border_color=ffffff20&langs_count=8" alt="Top Languages"/>
+  <img src="./skills.svg" alt="ТЕХНОЛОГИИ" />
 </p>
 
-<br/>
+<br/><br/>
 
-## 📫 Контакты
+<table align="center" width="90%">
+<tr>
+  <td width="50%" valign="top" style="border: 2px solid #ffffff; background: #0a0a0a; padding: 20px;">
+    <h2>▪ PROJECT_01</h2>
+    <h3><a href="https://github.com/noshackleshot/FrontendProjects">FRONTEND PROJECTS</a></h3>
+    <p><strong>REACT • TYPESCRIPT • REDUX</strong></p>
+    <p>Коллекция современных веб-приложений</p>
+  </td>
+  <td width="50%" valign="top" style="border: 2px solid #ffffff; background: #0a0a0a; padding: 20px;">
+    <h2>▪ PROJECT_02</h2>
+    <h3><a href="https://github.com/noshackleshot/gOzon">GOZON</a></h3>
+    <p><strong>GO • MICROSERVICES • POSTGRESQL</strong></p>
+    <p>E-commerce платформа с микросервисной архитектурой</p>
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top" style="border: 2px solid #ffffff; background: #0a0a0a; padding: 20px;">
+    <h2>▪ PROJECT_03</h2>
+    <h3><a href="https://github.com/noshackleshot/containerds">CONTAINERDS</a></h3>
+    <p><strong>C • DATA STRUCTURES • ALGORITHMS</strong></p>
+    <p>Библиотека контейнеров и структур данных</p>
+  </td>
+  <td width="50%" valign="top" style="border: 2px solid #ffffff; background: #0a0a0a; padding: 20px;">
+    <h2>▪ PROJECT_04</h2>
+    <h3><a href="https://github.com/noshackleshot/dezimal">DEZIMAL</a></h3>
+    <p><strong>C • ALGORITHMS • MATH</strong></p>
+    <p>Кастомный тип данных для высокоточных вычислений</p>
+  </td>
+</tr>
+</table>
+
+<br/><br/>
+
+<p align="center">
+  <strong>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</strong>
+</p>
 
 <p align="center">
   <a href="mailto:kiva.danila@yandex.ru">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/EMAIL-0a0a0a?style=for-the-badge&logoColor=white&labelColor=0a0a0a&color=ffffff&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiMwYTBhMGEiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNNCA0aDE2YzEuMSAwIDIgLjkgMiAydjEyYzAgMS4xLS45IDItMiAySDRjLTEuMSAwLTItLjktMi0yVjZjMC0xLjEuOS0yIDItMnoiPjwvcGF0aD48cG9seWxpbmUgcG9pbnRzPSIyMiw2IDEyLDEzIDIsNiI+PC9wb2x5bGluZT48L3N2Zz4=" alt="EMAIL"/>
   </a>
-  &nbsp;&nbsp;
+  <strong>&nbsp;&nbsp;|&nbsp;&nbsp;</strong>
   <a href="https://t.me/no_shackleshot">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+    <img src="https://img.shields.io/badge/TELEGRAM-0a0a0a?style=for-the-badge&logo=telegram&logoColor=0a0a0a&labelColor=0a0a0a&color=ffffff" alt="TELEGRAM"/>
   </a>
 </p>
 
-<br/>
-
----
-
 <p align="center">
-  <strong>School 21 • МТУСИ • Geekbrains</strong>
-  <br/><br/>
-  <em>Работаю в крупной российской компании</em>
+  <br/>
+  <strong>SCHOOL 21 • МТУСИ • GEEKBRAINS</strong>
 </p>

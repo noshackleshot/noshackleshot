@@ -1,11 +1,11 @@
-<svg width="1200" height="400" xmlns="http://www.w3.org/2000/svg">
+<svg width="1400" height="500" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <pattern id="dotGrid" width="80" height="80" patternUnits="userSpaceOnUse">
       <circle cx="1" cy="1" r="1" fill="#ffffff" opacity="0.02"/>
     </pattern>
 
     <style>
-      @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&amp;display=swap');
+      @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;900&amp;family=JetBrains+Mono&amp;display=swap');
 
       .background {
         fill: #0a0a0a;
@@ -16,76 +16,117 @@
       }
 
       .name {
-        font-size: 72px;
-        font-weight: 700;
-        fill: #ededed;
-        letter-spacing: -3.6px;
+        font-size: 96px;
+        font-weight: 900;
+        fill: #ffffff;
+        letter-spacing: -2px;
+        text-transform: uppercase;
       }
 
       .role {
-        font-size: 24px;
+        font-size: 32px;
         font-weight: 300;
-        fill: #ededed;
-        opacity: 0.7;
-        letter-spacing: 0.6px;
+        fill: #ffffff;
+        letter-spacing: 8px;
+        text-transform: uppercase;
       }
 
       .location {
-        font-size: 16px;
+        font-size: 18px;
         font-weight: 300;
-        fill: #ededed;
-        opacity: 0.5;
-        letter-spacing: 0.8px;
+        fill: #ffffff;
+        font-family: 'JetBrains Mono', monospace;
       }
 
-      .decorative-line {
-        fill: url(#lineGradient);
-        opacity: 0.3;
+      /* Typing animation for role */
+      @keyframes typing {
+        0%, 100% { opacity: 0; }
+        50% { opacity: 1; }
       }
 
-      @keyframes fadeIn {
-        from {
-          opacity: 0;
-          transform: translateY(10px);
-        }
-        to {
-          opacity: 1;
-          transform: translateY(0);
-        }
+      .cursor {
+        animation: typing 1s infinite;
+      }
+
+      /* Moving line animations */
+      @keyframes moveLine1 {
+        0% { transform: translateX(-200px); opacity: 0; }
+        10% { opacity: 1; }
+        90% { opacity: 1; }
+        100% { transform: translateX(1400px); opacity: 0; }
+      }
+
+      @keyframes moveLine2 {
+        0% { transform: translateX(-200px); opacity: 0; }
+        10% { opacity: 1; }
+        90% { opacity: 1; }
+        100% { transform: translateX(1400px); opacity: 0; }
+      }
+
+      .line1 {
+        animation: moveLine1 8s ease-in-out infinite;
+      }
+
+      .line2 {
+        animation: moveLine2 8s ease-in-out infinite 4s;
+      }
+
+      /* Pulsing dot */
+      @keyframes pulse {
+        0%, 100% { opacity: 1; }
+        50% { opacity: 0.3; }
+      }
+
+      .pulse-dot {
+        animation: pulse 2s ease-in-out infinite;
+      }
+
+      /* Slow grid movement */
+      @keyframes gridMove {
+        0% { transform: translate(0, 0); }
+        100% { transform: translate(80px, 80px); }
+      }
+
+      .animated-grid {
+        animation: gridMove 20s linear infinite;
       }
     </style>
-
-    <linearGradient id="lineGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#ffffff;stop-opacity:0" />
-      <stop offset="50%" style="stop-color:#ffffff;stop-opacity:0.3" />
-      <stop offset="100%" style="stop-color:#ffffff;stop-opacity:0" />
-    </linearGradient>
   </defs>
 
   <!-- Background -->
-  <rect class="background" width="1200" height="400"/>
+  <rect class="background" width="1400" height="500"/>
 
-  <!-- Dot grid pattern -->
-  <rect width="1200" height="400" fill="url(#dotGrid)"/>
+  <!-- Animated dot grid pattern -->
+  <g class="animated-grid">
+    <rect width="1400" height="500" fill="url(#dotGrid)"/>
+  </g>
+
+  <!-- Moving lines -->
+  <g class="line1">
+    <rect x="0" y="80" width="200" height="4" fill="#ffffff"/>
+  </g>
+  <g class="line2">
+    <rect x="0" y="420" width="200" height="4" fill="#ffffff"/>
+  </g>
 
   <!-- Content -->
   <g class="container">
     <!-- Name -->
-    <text class="name" x="600" y="150" text-anchor="middle">
-      Данила Кива
+    <text class="name" x="700" y="220" text-anchor="middle">
+      ДАНИЛА КИВА
     </text>
 
-    <!-- Role -->
-    <text class="role" x="600" y="200" text-anchor="middle">
-      Fullstack-разработчик
+    <!-- Role with typing effect -->
+    <text class="role" x="700" y="280" text-anchor="middle">
+      FULLSTACK DEVELOPER<tspan class="cursor">|</tspan>
     </text>
 
-    <!-- Location & Experience -->
-    <text class="location" x="600" y="240" text-anchor="middle">
-      Москва, Россия • 3+ года опыта
-    </text>
-
-    <!-- Decorative line -->
-    <rect class="decorative-line" x="570" y="280" width="60" height="1"/>
+    <!-- Location with pulsing dot -->
+    <g transform="translate(700, 320)">
+      <circle class="pulse-dot" cx="-180" cy="-6" r="4" fill="#ffffff"/>
+      <text class="location" x="0" y="0" text-anchor="middle">
+        Москва, Россия • 3+ года опыта
+      </text>
+    </g>
   </g>
 </svg>
