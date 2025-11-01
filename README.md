@@ -23,12 +23,6 @@
 <br/><br/>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/noshackleshot/noshackleshot/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
-
-<br/><br/>
-
-<p align="center">
   <img src="./skills.svg" alt="ТЕХНОЛОГИИ" />
 </p>
 
