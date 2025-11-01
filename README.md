@@ -35,48 +35,48 @@
 
 <br/><br/>
 
-<table align="center" width="90%" bgcolor="#0a0a0a" cellpadding="20" cellspacing="0">
+<table align="center" width="85%" bgcolor="#0a0a0a" cellpadding="25" cellspacing="15">
 <tr>
   <td width="50%" valign="top" bgcolor="#0a0a0a">
     <font color="#ffffff">
-    <pre><code>┌────────────────────────────────────┐
-│ ▪ PROJECT_01                       │
-└────────────────────────────────────┘</code></pre>
+    <p>━━━━━━━━━━━━━━━━━━━━</p>
+    <h2>▪ PROJECT_01</h2>
     <h3><a href="https://github.com/noshackleshot/FrontendProjects"><font color="#ffffff">FRONTEND PROJECTS</font></a></h3>
     <p><strong>REACT • TYPESCRIPT • REDUX</strong></p>
     <p>Коллекция современных веб-приложений</p>
+    <p>━━━━━━━━━━━━━━━━━━━━</p>
     </font>
   </td>
   <td width="50%" valign="top" bgcolor="#0a0a0a">
     <font color="#ffffff">
-    <pre><code>┌────────────────────────────────────┐
-│ ▪ PROJECT_02                       │
-└────────────────────────────────────┘</code></pre>
+    <p>━━━━━━━━━━━━━━━━━━━━</p>
+    <h2>▪ PROJECT_02</h2>
     <h3><a href="https://github.com/noshackleshot/gOzon"><font color="#ffffff">GOZON</font></a></h3>
     <p><strong>GO • MICROSERVICES • POSTGRESQL</strong></p>
     <p>E-commerce платформа с микросервисной архитектурой</p>
+    <p>━━━━━━━━━━━━━━━━━━━━</p>
     </font>
   </td>
 </tr>
 <tr>
   <td width="50%" valign="top" bgcolor="#0a0a0a">
     <font color="#ffffff">
-    <pre><code>┌────────────────────────────────────┐
-│ ▪ PROJECT_03                       │
-└────────────────────────────────────┘</code></pre>
+    <p>━━━━━━━━━━━━━━━━━━━━</p>
+    <h2>▪ PROJECT_03</h2>
     <h3><a href="https://github.com/noshackleshot/containerds"><font color="#ffffff">CONTAINERDS</font></a></h3>
     <p><strong>C • DATA STRUCTURES • ALGORITHMS</strong></p>
     <p>Библиотека контейнеров и структур данных</p>
+    <p>━━━━━━━━━━━━━━━━━━━━</p>
     </font>
   </td>
   <td width="50%" valign="top" bgcolor="#0a0a0a">
     <font color="#ffffff">
-    <pre><code>┌────────────────────────────────────┐
-│ ▪ PROJECT_04                       │
-└────────────────────────────────────┘</code></pre>
+    <p>━━━━━━━━━━━━━━━━━━━━</p>
+    <h2>▪ PROJECT_04</h2>
     <h3><a href="https://github.com/noshackleshot/dezimal"><font color="#ffffff">DEZIMAL</font></a></h3>
     <p><strong>C • ALGORITHMS • MATH</strong></p>
     <p>Кастомный тип данных для высокоточных вычислений</p>
+    <p>━━━━━━━━━━━━━━━━━━━━</p>
     </font>
   </td>
 </tr>
