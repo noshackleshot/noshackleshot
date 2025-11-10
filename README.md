@@ -58,10 +58,6 @@
 <br/><br/>
 
 <p align="center">
-  <strong>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</strong>
-</p>
-
-<p align="center">
   <a href="mailto:kiva.danila@yandex.ru" style="text-decoration: none">
     <img src="https://img.shields.io/badge/EMAIL-FFFFFF?style=for-the-badge&logo=gmail&logoColor=000000" alt="EMAIL"/>
   </a>
