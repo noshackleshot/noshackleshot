@@ -66,7 +66,7 @@
     <img src="https://img.shields.io/badge/EMAIL-FFFFFF?style=for-the-badge&logo=gmail&logoColor=000000" alt="EMAIL"/>
   </a>
   <strong>&nbsp;&nbsp;|&nbsp;&nbsp;</strong>
-  <a href="https://t.me/no_shackleshot">
+  <a href="https://t.me/no_shackleshot" style="text-decoration: none">
     <img src="https://img.shields.io/badge/TELEGRAM-FFFFFF?style=for-the-badge&logo=telegram&logoColor=000000" alt="TELEGRAM"/>
   </a>
 </p>
